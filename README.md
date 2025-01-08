@@ -1,1 +1,2 @@
 # GitHubCloneProject
+ cd GitHubCloneProject
